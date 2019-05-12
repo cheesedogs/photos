@@ -5,5 +5,3 @@ Git tracks changes.
 Creating a new branch is quick and simple.
 merge
 bug branch
-
-a new test
